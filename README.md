@@ -9,10 +9,9 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌐 Installation : Server | NAS backup | SAN storage
-- 💻 Operating System : Windows Server 2025
-- 🐳 Configuration : Microsoft Failover Clustering, System RAID, VMware
-- 🧰 Infrastructure : Troubleshooting Network
-- 📜 Documentation : After installation, After Maintenance, After Troubleshooting
-- ⚡ Maintenance : Hardware server, pc, tools
-- 🏆 Goals : Installation has done in 11 hospital
+- 🌐 Demo : Onsite & Online By Live one Telemedicine
+- 💻 Installation : Application, Feature, Cloud / Storage
+- 🐳 Training : Application, Classroom, Voice Control, AI-T Mode
+- 🧰 Maintenance : After Upgrade Version
+- 🏆 Goals : Installation 59 User (Doctors)
+- ⚡ Target Market : General | Pain Management | Aesthetic
