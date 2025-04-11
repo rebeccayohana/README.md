@@ -9,9 +9,9 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌐 Demo : Onsite & Online By Live one Telemedicine
+- 🏦 Demo : Onsite & Online By Live one Telemedicine
 - 💻 Installation : Application, Feature, Cloud / Storage
-- 🐳 Training : Application, Classroom, Voice Control, AI-T Mode
+- 👯 Training : Application, Classroom, Voice Control, AI-T Mode
 - 🧰 Maintenance : After Upgrade Version
 - 🏆 Goals : Installation 59 User (Doctors)
 - ⚡ Target Market : General | Pain Management | Aesthetic
