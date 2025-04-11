@@ -19,4 +19,4 @@
 
 <!-- Banner Image -->
 <br>
-    <img src="https://lh4.googleusercontent.com/proxy/JB4PsVJf8qUKoMB-c06LwRhbbe00cjmSAy3QI9yimn-qRScntAT-9nJU5rPzDWZjWc6LlKWWTzRbQC-3qfCOuk-8ie6x3p60kF5h9atbeF4iwgnB2s4" alt="Coder GIF" width="300">
+    <img src="https://lh4.googleusercontent.com/proxy/JB4PsVJf8qUKoMB-c06LwRhbbe00cjmSAy3QI9yimn-qRScntAT-9nJU5rPzDWZjWc6LlKWWTzRbQC-3qfCOuk-8ie6x3p60kF5h9atbeF4iwgnB2s4" alt="Coder GIF" width="350">
