@@ -7,7 +7,7 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 Demo : Onsite & Online By Live one Telemedicine
 - 💻 Installation : Application, Feature, Cloud / Storage
