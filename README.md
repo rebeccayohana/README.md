@@ -7,7 +7,7 @@
 
 ---
 
-### 👩🏻‍💻 /> About Me:
+### 👩🏻‍💻 About Me:
 
 - 🏦 Demo : Onsite & Online By Live one Telemedicine
 - 💻 Installation : Application, Feature, Cloud / Storage
